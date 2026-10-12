@@ -1,2 +1,2 @@
-# Telmen-Nyamtuya
-Data Analytics Student
+# Strategic Thinking
+CA1
